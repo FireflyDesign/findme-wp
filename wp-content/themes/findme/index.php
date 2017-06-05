@@ -1,2 +1,7 @@
 <?php
-// Silence is golden, ziom
+
+get_header(); ?>
+
+
+
+<?php get_footer(); ?>
