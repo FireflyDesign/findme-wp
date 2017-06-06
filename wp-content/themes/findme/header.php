@@ -11,11 +11,12 @@
 ?><!DOCTYPE html>
 <html <?php language_attributes(); ?> class="no-js">
 <head>
+	<link rel="shortcut icon" href="">
 
 	<script type="text/javascript">
 		var ajaxurl = "<?php echo admin_url('admin-ajax.php'); ?>";
-		console.log(ajaxurl);
 	</script>
+	<link rel="icon" href="data:;base64,iVBORw0KGgo=">
 	<?php wp_head(); ?>
 </head>
 
