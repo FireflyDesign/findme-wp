@@ -10,7 +10,7 @@
  */
 ?>
 
-<h2>Zmiana 2</h2>
+<h2>Zmiana 1</h2>
 
 <?php wp_footer(); ?>
 
