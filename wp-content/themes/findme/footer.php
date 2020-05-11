@@ -10,6 +10,7 @@
  */
 ?>
 
+<h2>Siemanko, tu footer</h2>
 
 <?php wp_footer(); ?>
 
